@@ -22,3 +22,6 @@ body {
 			color: $gray;
 		}
 }
+textarea#pin_description.text.optional {
+	width: 450px;
+}
